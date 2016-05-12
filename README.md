@@ -31,5 +31,6 @@ https://drive.google.com/open?id=0Bynb9nWKXjmldzZpWFIxdERlQVk
 3. Connect RPI to home network using wifi module.
 
 
-
+Complete Video of Final Project: 
+https://www.youtube.com/watch?v=qRBnnMTHBL0
 
